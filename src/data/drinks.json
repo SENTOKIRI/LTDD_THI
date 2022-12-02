@@ -1,0 +1,182 @@
+[
+    {
+        "id": 0,
+        "name": "Sword Art Online",
+        "image": "https://cdn0.fahasa.com/media/catalog/product/s/a/sao-2-b_ath_ng-tin-t_i-b_n-sao-_1_.jpg",
+        "price": 100000,
+        "owner": "NXB Hồng Đức",      
+        "description": "Một MMO hay thường sẽ có vô vàn quest phụ để bổ sung cho cốt truyện chính. Ý tưởng này đã tạo nên Sword Art Online 022 “Kiss and Fly”, vén mở một góc nhìn chi tiết hơn vào thế giới trò chơi của Kirito và bạn bè, thông qua bốn truyện ngắn:"
+    },
+
+    {
+        "id": 1,
+        "name": "Demon Slayer: Kimetsu No Yaiba - Light Novel",
+        "image": "https://cdn0.fahasa.com/media/catalog/product/i/m/image_244718_1_5529.jpg",
+        "price": 90000,
+        "owner": "NXB Hồng Đức",       
+        "description": "Sau khi thoát khỏi dinh thự của một con quỷ dùng trống, Tanjiro bắt gặp Agatsuma Zenitsu bị cậu thiếu niên đeo mặt nạ lợn rừng truy đuổi. Tanjiro đã ngăn cản cậu ta, nhưng...!? Và sau một thời gian nghỉ ngơi, nhóm Tanjiro lại gấp rút đến một ngọn núi kì lạ theo mệnh lệnh của đội Diệt quỷ!! Thứ đang ẩn nấp tại đó là...!"
+    },
+
+    {
+        "id": 2,
+        "name": "Dược Sư Tự Sự (Light-novel)",
+        "image": "https://cdn0.fahasa.com/media/catalog/product/6/0/600duoc-su-tu-su_tieu-thuyet.jpg",
+        "price": 88000,
+        "owner": "NXB Kim Đồng",     
+        "description": "Miêu Miêu là một cô gái làm công việc hầu hạ trong cung đình thời phong kiến. Câu chuyện của chúng ta bắt đầu với việc cô gái từng hành nghề dược sư ở phố hoa này nghe thấy người ta đồn thổi rằng: tất cả những đứa con của Hoàng đế đều đoản mệnh."
+    },
+
+    {
+        "id": 3,
+        "name": "Spy X Family - Tập 3",
+        "image": "https://cdn0.fahasa.com/media/catalog/product/s/p/spy-x-family---tap-3.jpg",
+        "price": 30000,
+        "owner": "NXB Kim Đồng",
+
+        "description": "Yuri, em trai của Yor đã tới thăm nhà Forger!! Twilight và Yuri cùng giấu nhẹm thân phận điệp viên, cũng như cảnh sát mật của mình, và giở đủ chiêu thăm dò lẫn nhau. Yuri, cậu em cuồng chị gái đang gấp rút muốn điều tra xem liệu Twilight có phải là người chồng thật sự của chị mình hay không…!? "
+    },
+
+    {
+        "id": 4,
+        "name": "Dr.STONE - Tập 1: Thế Giới Đá",
+        "image": "https://cdn0.fahasa.com/media/catalog/product/d/r/dr.-stone---tap-1.jpg",
+        "price": 119000,
+        "owner": "NXB Kim Đồng",        
+        "description": "Ngày nọ, cậu học sinh cấp Ba Taiju bị cuốn vào một hiện tượng kì bí khiến toàn nhân loại hóa đá. Khoảng 3.700 năm sau, Taiju tỉnh dậy và hội ngộ người bạn thân Senku đã hồi sinh trước đó. Bằng “sức trâu” của Taiju và “đầu óc” của Senku, cả hai người đã cùng nhau bắt tay vào xây dựng lại nền văn minh từ con số 0 ở thế giới đá..."
+    },
+
+    {
+        "id": 5,
+        "name": "One-Punch Man - Tập 22: Ánh Sáng ",
+        "image": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935244866773.jpg",
+        "price": 50000,
+        "owner": "NXB Kim Đồng",     
+        "description": "Để đối phó với Phượng Hoàng Tái Sinh, Hoàng Đế Nhi Đồng đã phải xài đến bảo bối cuối cùng là Robot Dũng Sĩ Khổng Lồ. Tuy nhiên, đối phương bỗng xuống nước ngọt nhạt “tôi cần tài năng của cậu” khiến Hoàng Đế Nhi Đồng bị lung lạc tinh thần. Giữa lúc đó, người hùng của chúng ta lại đột ngột chen ngang!?"
+    },
+
+    {
+        "id": 6,
+        "name": "OVERLORD - Tập 13",
+        "image": "https://cdn0.fahasa.com/media/catalog/product/o/v/overlord-13-_manga_---b_a-1.jpg",
+        "price": 99000,
+        "owner": "NXB Hồng Đức",      
+        "description": "Cuộc xung đột tại vương đô dần đi đến hồi kết, với đỉnh điểm là trận chiến giữa ác quỷ Jaldabaoth và Dark Hero Momon. Song song với những cuộc đối đầu nảy lửa, chân tướng của kế hoạch Gehenna cũng dần được hé lộ. Quay trở lại đại lăng mộ Nazarick sau những sự kiện vô cùng khốc liệt, cuộc sống thường ngày của Ainz và các thành viên Nazarick đã được khắc họa trọn vẹn qua một lăng kính đầy hài hước và nhẹ nhàng."
+    },
+
+    {
+        "id": 7,
+        "name": "Dragon Ball Super - Tập 12: Thân Phận Thực Sự Của Merus",
+        "image": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935244872910.jpg",
+        "price": 59000,
+        "owner": "NXB Kim Đồng",       
+        "description": "Ác nhân Moro cùng đồng bọn là những tù nhân vượt ngục đang làm loạn khắp cõi Ngân Hà nhằm thâu tóm năng lượng sống từ các hành tinh có giá trị. Cùng lúc ấy, trên Trái Đất cũng xuất hiện một băng nhóm Ngân tặc, trong đó có gã tù “Số 73” với năng lực sao chép cực kì lợi hại. Thiếu Goku, nhóm bạn đã phải chật vật chiến đấu với hắn ra sao?"
+    },
+
+    {
+        "id": 8,
+        "name": "One Piece - Tập 100: “Haki Bá Vương” (Bản Bìa Cứng) - Limited Edition - Tặng Kèm Postcard PVC Luffy",
+        "image": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935244876413_1.jpg",
+        "price": 299000,
+        "owner": "NXB Kim Đồng",       
+        "description": "Hành trình chinh phục kho báu ONE PIECE, đối đầu với những địch thủ cực mạnh của thuyền trưởng Luffy và các thành viên trong băng Mũ Rơm hiện đang diễn ra trên mảnh đất Wano!! Hứa hẹn những “màn kịch” vô tiền khoáng hậu dành cho các Fan lâu năm đã không ngừng ủng hộ cho tác phẩm!!"
+    },
+
+    {
+        "id": 9,
+        "name": "Naruto Tập 49",
+        "image": "https://cdn0.fahasa.com/media/catalog/product/n/a/naruto-tap-49.jpg",
+        "price": 49000,
+        "owner": "NXB Kim Đồng",      
+        "description": "Nhằm triệt hạ Akatsuki cùng mưu đồ thống trị của chúng, Hội đàm Ngũ Kage đã được tổ chức theo lời kêu gọi của Raikage. Đại diện các làng lần lượt tập trung ở Thiết Quốc! Trong lúc đó, trước chủ trương triệt hạ Sasuke của làng Mây, để thù hận không kéo theo thù hận, Naruto quyết định trực tiếp đứng ra đàm phán với Raikage…!?"
+    },
+
+    {
+        "id": 10,
+        "name": "Sword Art Online 2",
+        "image": "https://cdn0.fahasa.com/media/catalog/product/s/a/sao-2-b_ath_ng-tin-t_i-b_n-sao-_1_.jpg",
+        "price": 120000,
+        "owner": "NXB Hồng Đức",      
+        "description": "Một MMO hay thường sẽ có vô vàn quest phụ để bổ sung cho cốt truyện chính. Ý tưởng này đã tạo nên Sword Art Online 022 “Kiss and Fly”, vén mở một góc nhìn chi tiết hơn vào thế giới trò chơi của Kirito và bạn bè, thông qua bốn truyện ngắn:"
+    },
+
+    {
+        "id": 11,
+        "name": "Demon Slayer: Kimetsu No Yaiba 2 - Light Novel",
+        "image": "https://cdn0.fahasa.com/media/catalog/product/i/m/image_244718_1_5529.jpg",
+        "price": 100000,
+        "owner": "NXB Hồng Đức",       
+        "description": "Sau khi thoát khỏi dinh thự của một con quỷ dùng trống, Tanjiro bắt gặp Agatsuma Zenitsu bị cậu thiếu niên đeo mặt nạ lợn rừng truy đuổi. Tanjiro đã ngăn cản cậu ta, nhưng...!? Và sau một thời gian nghỉ ngơi, nhóm Tanjiro lại gấp rút đến một ngọn núi kì lạ theo mệnh lệnh của đội Diệt quỷ!! Thứ đang ẩn nấp tại đó là...!"
+    },
+
+    {
+        "id": 12,
+        "name": "Dược Sư Tự Sự 2 (Light-novel)",
+        "image": "https://cdn0.fahasa.com/media/catalog/product/6/0/600duoc-su-tu-su_tieu-thuyet.jpg",
+        "price": 90000,
+        "owner": "NXB Kim Đồng",      
+        "description": "Miêu Miêu là một cô gái làm công việc hầu hạ trong cung đình thời phong kiến. Câu chuyện của chúng ta bắt đầu với việc cô gái từng hành nghề dược sư ở phố hoa này nghe thấy người ta đồn thổi rằng: tất cả những đứa con của Hoàng đế đều đoản mệnh."
+    },
+
+    {
+        "id": 13,
+        "name": "Spy X Family - Tập 4",
+        "image": "https://cdn0.fahasa.com/media/catalog/product/s/p/spy-x-family---tap-3.jpg",
+        "price": 35000,
+        "owner": "NXB Kim Đồng",      
+        "description": "Yuri, em trai của Yor đã tới thăm nhà Forger!! Twilight và Yuri cùng giấu nhẹm thân phận điệp viên, cũng như cảnh sát mật của mình, và giở đủ chiêu thăm dò lẫn nhau. Yuri, cậu em cuồng chị gái đang gấp rút muốn điều tra xem liệu Twilight có phải là người chồng thật sự của chị mình hay không…!? "
+    },
+
+    {
+        "id": 14,
+        "name": "Dr.STONE - Tập 2: Thế Giới Đá",
+        "image": "https://cdn0.fahasa.com/media/catalog/product/d/r/dr.-stone---tap-1.jpg",
+        "price": 109000,
+        "owner": "NXB Kim Đồng",      
+        "description": "Ngày nọ, cậu học sinh cấp Ba Taiju bị cuốn vào một hiện tượng kì bí khiến toàn nhân loại hóa đá. Khoảng 3.700 năm sau, Taiju tỉnh dậy và hội ngộ người bạn thân Senku đã hồi sinh trước đó. Bằng “sức trâu” của Taiju và “đầu óc” của Senku, cả hai người đã cùng nhau bắt tay vào xây dựng lại nền văn minh từ con số 0 ở thế giới đá..."
+    },
+
+    {
+        "id": 15,
+        "name": "One-Punch Man - Tập 23: Bóng tối ",
+        "image": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935244866773.jpg",
+        "price": 50000,
+        "owner": "NXB Kim Đồng",       
+        "description": "Để đối phó với Phượng Hoàng Tái Sinh, Hoàng Đế Nhi Đồng đã phải xài đến bảo bối cuối cùng là Robot Dũng Sĩ Khổng Lồ. Tuy nhiên, đối phương bỗng xuống nước ngọt nhạt “tôi cần tài năng của cậu” khiến Hoàng Đế Nhi Đồng bị lung lạc tinh thần. Giữa lúc đó, người hùng của chúng ta lại đột ngột chen ngang!?"
+    },
+
+    {
+        "id": 16,
+        "name": "OVERLORD - Tập 14",
+        "image": "https://cdn0.fahasa.com/media/catalog/product/o/v/overlord-13-_manga_---b_a-1.jpg",
+        "price": 99000,
+        "owner": "NXB Hồng Đức",
+        "description": "Cuộc xung đột tại vương đô dần đi đến hồi kết, với đỉnh điểm là trận chiến giữa ác quỷ Jaldabaoth và Dark Hero Momon. Song song với những cuộc đối đầu nảy lửa, chân tướng của kế hoạch Gehenna cũng dần được hé lộ. Quay trở lại đại lăng mộ Nazarick sau những sự kiện vô cùng khốc liệt, cuộc sống thường ngày của Ainz và các thành viên Nazarick đã được khắc họa trọn vẹn qua một lăng kính đầy hài hước và nhẹ nhàng."
+    },
+
+    {
+        "id": 17,
+        "name": "Dragon Ball Super - Tập 13: Goku & Merus",
+        "image": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935244872910.jpg",
+        "price": 69000,
+        "owner": "NXB Kim Đồng",       
+        "description": "Ác nhân Moro cùng đồng bọn là những tù nhân vượt ngục đang làm loạn khắp cõi Ngân Hà nhằm thâu tóm năng lượng sống từ các hành tinh có giá trị. Cùng lúc ấy, trên Trái Đất cũng xuất hiện một băng nhóm Ngân tặc, trong đó có gã tù “Số 73” với năng lực sao chép cực kì lợi hại. Thiếu Goku, nhóm bạn đã phải chật vật chiến đấu với hắn ra sao?"
+    },
+
+    {
+        "id": 18,
+        "name": "One Piece - Tập 101: “Haki Bá Vương” - Limited Edition - Tặng Kèm Postcard PVC Luffy",
+        "image": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935244876413_1.jpg",
+        "price": 259000,
+        "owner": "NXB Kim Đồng",       
+        "description": "Hành trình chinh phục kho báu ONE PIECE, đối đầu với những địch thủ cực mạnh của thuyền trưởng Luffy và các thành viên trong băng Mũ Rơm hiện đang diễn ra trên mảnh đất Wano!! Hứa hẹn những “màn kịch” vô tiền khoáng hậu dành cho các Fan lâu năm đã không ngừng ủng hộ cho tác phẩm!!"
+    },
+
+    {
+        "id": 19,
+        "name": "Naruto Tập 50",
+        "image": "https://cdn0.fahasa.com/media/catalog/product/n/a/naruto-tap-49.jpg",
+        "price": 49000,
+        "owner": "NXB Kim Đồng",        
+        "description": "Nhằm triệt hạ Akatsuki cùng mưu đồ thống trị của chúng, Hội đàm Ngũ Kage đã được tổ chức theo lời kêu gọi của Raikage. Đại diện các làng lần lượt tập trung ở Thiết Quốc! Trong lúc đó, trước chủ trương triệt hạ Sasuke của làng Mây, để thù hận không kéo theo thù hận, Naruto quyết định trực tiếp đứng ra đàm phán với Raikage…!?"
+    }
+]
