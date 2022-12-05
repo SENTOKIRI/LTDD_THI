@@ -4,6 +4,7 @@ import React from "react";
 import DrinkDetailScreen from "../screens/drinkDetail";
 import LoginScreen from "../screens/login";
 import SignUpScreen from "../screens/signUp";
+import EditScreen from "../screens/edituser";
 import HomeTab from "./homeTab";
 const Stack = createStackNavigator();
 
@@ -17,6 +18,7 @@ function AppNavigation() {
       >
         <Stack.Screen name="LoginScreen" component={LoginScreen} />
         <Stack.Screen name="SignUpScreen" component={SignUpScreen} />
+        <Stack.Screen name="EditScreen" component={EditScreen} />
         <Stack.Screen name="HomeTab" component={HomeTab} />
         <Stack.Screen name="DrinkDetailScreen" component={DrinkDetailScreen} />
       </Stack.Navigator>
